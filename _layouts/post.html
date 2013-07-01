@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p class="align-right"><time datetime="{{ page.date | date_to_xmlschema}}" pubdate>{{ page.date | date_to_string }}</time><br/>by Rafael Rosa<a href="https://plus.google.com/100041050642671088559" rel="author"></a></p>
+
+<div class="post">
+{{ content }}
+</div>
+
+{% include disqus.html %}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- design copied from jekyllrb.com by Coby Chapple (@cobyism), awesome GitHub designer, used with authorization -->
+
+        <!-- custom fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
+
+        <!-- base CSS & syntax highlight -->
+        <link rel="stylesheet" href="/css/normalize.css" />
+        <link rel="stylesheet" href="/css/gridism.css" />
+        <link rel="stylesheet" href="/css/pygments.css" />
+
+        <!-- @cobyism CSS -->
+        <link rel="stylesheet" href="/css/style.css" />
+
+        <!-- custom CSS -->
+        <link rel="stylesheet" href="/css/custom.css" />
+
+        <link rel="icon" type="image/x-icon" href="/favicon.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+        <link href="/atom.xml" type="application/atom+xml" rel="feed alternate" title="ATOM Feed">
+
+        <!-- magic for HTML5 -->
+        <script type="text/javascript" src="/js/modernizr-2.5.3.min.js"></script>
+    </head>
+    <body class="wrap">
+    <header>
+        <nav class="mobile_navigation show-on-mobiles">
+            <a class="about" href="/about">About me</a>
+            <a class="banner_grok" href="http://www.grokpodcast.com" target="_blank"><img class="banner_grok" src="/images/grokpodcast.png" title="Grok Podcast"></a>
+        </nav>
+        <div class="grid">
+            <div class="unit golden-large center-on-mobiles">
+                <h1><a href="/">{{ site.title }}</a></h1>
+                <h2>{{ site.tagline }}</h2>
+            </div>
+            <div class="unit golden-small align-right hide-on-mobiles">
+                <a href="http://www.grokpodcast.com" target="_blank"><img class="banner_grok_desktop" src="/images/grokpodcast.png" title="Grok Podcast"></a>
+            </div>
+        </div>
+    </header>
+
+    <section class="docs">
+        <div class="grid">
+            <div class="get_in_touch_mobile align-center show-on-mobiles">
+                <a href="{{site.author.twitter}}" title="@rafaelrosafu" target="_blank"><img src="/images/twitter-32.png"></a>
+                <a href="{{site.author.linkedin}}" title="LinkedIn" target="_blank"><img src="/images/linkedin-32.png"></a>
+                <a href="{{site.author.github}}" title="GitHub" target="_blank"><img src="/images/github-32.png"></a>
+                <a href="{{site.author.googleplus}}" title="g+" target="_blank"><img src="/images/googleplus-32.png"></a>
+                <a href="/atom.xml" title="RSS" target="_blank"><img src="/images/rss-32.png"></a>
+            </div>
+
+            <div class="unit four-fifths">
+                <article>
+                    {{ content }}
+                </article>
+            </div>
+
+            <div class="unit one-fifth hide-on-mobiles">
+                <aside>
+                    <h4>Get in touch</h4>
+                    <ul>
+                      <li class="">
+                        <a href="/about">About me</a>
+                      </li>
+                    </ul>
+                    <div>
+                        <a href="https://twitter.com/rafaelrosafu" title="@rafaelrosafu" target="_blank"><img src="/images/twitter-32.png"></a>
+                        <a href="https://linkedin.com/in/rafaelrosafu" title="LinkedIn" target="_blank"><img src="/images/linkedin-32.png"></a>
+                        <a href="https://github.com/rafaelrosafu" title="GitHub" target="_blank"><img src="/images/github-32.png"></a>
+                        <a href="https://plus.google.com/100041050642671088559" title="g+" target="_blank"><img src="/images/googleplus-32.png"></a>
+                        <a href="/atom.xml" title="RSS" target="_blank"><img src="/images/rss-32.png"></a>
+                    </div>
+                </aside>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="grid">
+            <div class="unit two-thirds center-on-mobiles">
+                <p>Design by the awesome <a href="http://http://twitter.com/cobyism" target="_blank">Coby Chapple</a>, <a href="https://twitter.com/cobyism/status/351700740068212737" target="_blank">used with permission</a>.<br/>This site is powered by the amazing <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.<br/>Icons from <a href="http://simpleicons.org/" target="_blank">Dan Leech's SimpleIcons.org</a>.</p>
+            </div>
+            <div class="unit one-third center-on-mobiles align-right">
+                <p class="license">
+                    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB" title="Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License" target="_blank"><img class="creative_commons" alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a></a>
+                </p>
+            </div>
+        </div>
+    </footer>
+    {% include google_analytics.html %}
+    </body>
+</html>

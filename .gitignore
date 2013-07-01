@@ -1,0 +1,11 @@
+.DS_Store
+_site/
+series.rb
+Vagrantfile
+.vagrant/
+.bundle/
+bin/
+.rvmrc
+vendor/
+_vendor/
+_config.yml

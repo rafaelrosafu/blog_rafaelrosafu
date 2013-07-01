@@ -1,0 +1,34 @@
+body > footer img.creative_commons {
+	width: 88px;
+	height: 31px;
+	opacity: 1;
+}
+
+div.get_in_touch_mobile a {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+header nav.mobile_navigation a.about {
+	display: inline-block;
+	float: left;
+	width: 33%;
+	padding-left: 5%;
+}
+
+header nav.mobile_navigation a.banner_grok {
+	display: inline-block;
+	float: right;
+	width: 66%;
+	text-align: right;
+}
+
+header nav.mobile_navigation img.banner_grok {
+	padding-right: 5%;
+	padding-top: 2%;
+	width: 66%;
+}
+
+img.banner_grok_desktop {
+	padding-top: 0.8em;
+}
