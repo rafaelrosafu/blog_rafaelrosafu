@@ -105,6 +105,15 @@ Para quem reclama de impostos, o leão aqui é tão ou mais faminto que no Brasi
 
 Um detalhe engraçado, que até faz sentido mas é meio mala, é que nos orgãos do governo do Québec só se fala francês. Se você estiver muito perdido eles falam inglês com você, mas não conte com isso.
 
+## Saúde
+Comparado com o SUS ou o estúpido sistema de saúde dos EUA, o Canadá é um paraíso. Até agora não precisamos utilizá-lo, mas até onde sabemos o problema é que há uma boa demora para ser atendido se você não estiver num caso de urgência, procedimentos eletivos demoram uma eternidade e você tem que passar por um "médico da família" para algumas coisas.
+
+Porém, o fato de se ter um "médico da família" pode garantir sua saúde no longo prazo, com prevenção ao invés de tratamentos corretivos. Infelizmente o número de médicos não é grande, é complicado achar um médico com vagas para aceitar pessoas novas, eles tem uma quantidade limitada de pacientes, mas é melhor do que nada.
+
+Fora isso, a saúde públca é gratuita, todo mundo tem direito de se tratar e não contrair uma dívida absurda no processo. A empresa onde trabalho paga um seguro saúde particular, o que alivia os gastos do governo e tem algumas coisas extras, mas todo mundo está coberto e isso é importante.
+
+Se alguém quiser ver o lado ruim, recomendo assistir ao filme ["As Invasões Bárbaras"](http://www.imdb.com/title/tt0338135/) para ver como é, pelos relatos de pessoas que conheço não é tão ruim quanto eles pintam, espero não precisar confirmar isso pessoalmente.
+
 ## Montreal
 
 Montreal é a maior cidade francófona do país (3.8 milhões de habitantes), a segunda maior cidade do país depois de Toronto (5,5 milhões), mas que para nós, habituados com a Terra da Garoa é um pinguinho de gente. A vantagem, segundo meu ponto de vista, é que Montreal é uma cidade de imigrantes, andando na rua você vai encontrar um monte de gente falando tudo que é língua, menos inglês e francês, além de sempre ouvir algum brasileiro falando alto :)
