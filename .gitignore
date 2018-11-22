@@ -8,4 +8,4 @@ bin/
 .rvmrc
 vendor/
 _vendor/
-_config.yml
+Gemfile.lock

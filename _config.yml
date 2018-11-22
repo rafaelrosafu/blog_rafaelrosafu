@@ -1,0 +1,21 @@
+title: Rafael Rosa Fu
+tagline: Salve
+feed_subtitle: cloud computing and agile software development
+root_domain: https://blog.rafaelrosafu.info
+production_url: http://blog.rafaelrosafu.info
+
+author:
+  name: Rafael Rosa
+  email: rafaelrosafu@gmail.com
+  twitter: https://twitter.com/rafaelrosafu
+  linkedin: https://linkedin.com/in/rafaelrosafu
+  github: https://github.com/rafaelrosafu
+  googleplus: https://plus.google.com/100041050642671088559
+
+google_analytics: UA-7340111-2
+
+disqus_shortname: rafaelrosafublog
+
+pygments: true
+permalink:  /:year/:month/:day/:title.html
+exclude: ['bin', 'Rakefile', 'README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', 'vendor']
